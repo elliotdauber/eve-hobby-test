@@ -1,0 +1,13 @@
+{
+  "name": "eve-hobby-test",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "eve dev",
+    "build": "eve build",
+    "start": "eve start"
+  },
+  "dependencies": {
+    "eve": "https://pkg.eve.dev/8f22d43e346a5f44b30fd3ce3af57d0efe60ed71/eve.tgz"
+  }
+}
